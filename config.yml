@@ -1,0 +1,39 @@
+messages:
+  claimed:
+  - for...me?
+  - New...friend!
+  abandoned:
+  - Bye...friend!
+  - Why...leave...me?
+  toofar:
+  - You...lost...me...
+  - Where...friend...go?
+  alreadyOwned:
+  - I...have...owner...
+  - My...friend...better...
+  yourGolem:
+  - You...already...friend!
+  traded:
+  - Ha...I...better...Golem!
+  idle:
+  - How...is...friend?
+  - Pretty...sky...
+  notYourGolem:
+  - Who...you?
+  - Wrong...golem!
+  died:
+  - I...see...pretty...light- *Your golem has died*
+  remembered:
+  - Nice...see...you...again!
+  defend:
+  - I...protect..friend...
+  - Meanie...hurt...friend!
+  - bad...monsters...
+  - no...hurt...friend...
+  feed:
+  - nom...nom...nom...
+  - I...feel...better!
+  fullHealth:
+  - I...not...hungry...
+idleTime: 5
+ingotHeal: 10
